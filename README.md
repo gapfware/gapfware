@@ -6,8 +6,8 @@
   />
   <h1 align="center">Hi! 👋, I'm Gabriel</h1>
   <h3 align="center">
-    A passionate Backend developer from Venezuela, living in Argentina
-    Currently studying Computer Engineering at Universidad de Palermo.
+    A passionate Backend developer from Venezuela, living in Argentina. <br>
+    Studying Computer Engineering at Universidad de Palermo.
   </h3>
 </div>
 
