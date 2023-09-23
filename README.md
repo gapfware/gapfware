@@ -14,7 +14,7 @@
 ### About Me:
 - 🔭 I’m currently working on personal and freelance projects
 - 🌱 I’m currently learning Backend Develpment, Python and Computer Science
-- 💬 Ask me about Python, Django, Node.js
+- 💬 Ask me about Python, Django, Backend Development
 - 📫 How to reach me: gapfware@gmail.com
 - ⚡ Future Content Creator
 
