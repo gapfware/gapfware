@@ -13,8 +13,8 @@
 
 ### About Me:
 - 🔭 I’m currently working on personal and freelance projects
-- 🌱 I’m currently learning Backend Develpment, Python and Computer Science
-- 💬 Ask me about Python, Django, Backend Development
+- 🌱 I’m currently learning Backend Develpment, Python, Computer Science and Blockchain Technology
+- 💬 Ask me about: Python, Backend Development, scripting, Web3.0 and cryptocurrencies
 - 📫 How to reach me: gapfware@gmail.com
 - ⚡ Future Content Creator
 
@@ -34,6 +34,13 @@
     width="30"
     height="30"
   />
+    <img
+    src="https://branditechture.agency/brand-logos/wp-content/uploads/wpdm-cache/fastapi-900x0.png"
+    title="FastAPI"
+    alt="FastAPI"
+    width="30"
+    height="30"
+  />
   <img
     src="https://www.britefish.net/wp-content/uploads/2019/06/logo-javascript-2.png"
     title="JavaScript"
@@ -49,8 +56,8 @@
     height="30"
   />
   <img
-    src="https://4.bp.blogspot.com/-pTRQOarwEFk/VgTFTZW_w3I/AAAAAAAABg8/XY4q2R3YNj0/w1200-h630-p-k-no-nu/postgresql-logo.png"
-    title="SQL"
+    src="https://www.vhv.rs/dpng/d/543-5438423_mysql-logo-hd-png-download.png"
+    title="MySQL"
     alt="SQL"
     width="30"
     height="30"
