@@ -14,7 +14,7 @@
 ### About Me:
 - 🔭 I’m currently working on personal and freelance projects
 - 🌱 I’m currently learning Backend Develpment, Python, Computer Science and Blockchain Technology
-- 💬 Ask me about: Python, Backend Development, scripting, Web3.0 and cryptocurrencies
+- 💬 Ask me about: Python, Backend Development, Scripting, Web3.0 and Cryptocurrencies
 - 📫 How to reach me: gapfware@gmail.com
 - ⚡ Future Content Creator
 
@@ -56,13 +56,6 @@
     height="30"
   />
   <img
-    src="https://www.vhv.rs/dpng/d/543-5438423_mysql-logo-hd-png-download.png"
-    title="MySQL"
-    alt="SQL"
-    width="30"
-    height="30"
-  />
-  <img
     src="https://citywebconsultants.co.uk/sites/default/files/inline-images/mongo-medium.png"
     title="Mongo DB"
     alt="Mongo DB"
@@ -80,6 +73,13 @@
     src="https://logos-download.com/wp-content/uploads/2017/07/HTML5_badge.png"
     title="HTML"
     alt="HTML"
+    width="30"
+    height="30"
+  />
+    <img
+    src="https://www.vhv.rs/dpng/d/543-5438423_mysql-logo-hd-png-download.png"
+    title="MySQL"
+    alt="SQL"
     width="30"
     height="30"
   />
