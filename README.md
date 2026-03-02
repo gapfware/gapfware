@@ -1,48 +1,52 @@
 <div id="header" align="center">
+  <img
+    src="https://media2.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e470la7tj61ze2u3crcgevp1gdr8guai09sthz2ypp5&rid=giphy.gif&ct=g"
+    alt="coding"
+    width="200"
+  />
   <h1 align="center">Gabriel Pérez Federico</h1>
   <h3 align="center">
-    Product Engineer <br>
-    Computer Engineer — Argentina
+    Product Engineer • System Builder • Long-Term Thinker
   </h3>
 </div>
 
 ---
 
-## About
+## Designing Digital Systems That Scale
 
-I design and build digital systems with long-term vision.
+I build structured software with intention.
 
-My approach is product-driven and architecture-first.  
-I focus on clarity, structure, and scalable foundations.
+My focus is not just writing code —  
+it’s designing systems that solve real problems  
+and can evolve over time.
 
-Software, to me, is not just code —  
-it is a structured system designed to grow.
+I care about architecture, clarity, and ownership.
 
 ---
 
-## Engineering Focus
+## Engineering Direction
 
 - Backend architecture (Go & Python)
-- Clean system design
-- Business-oriented software
-- Structured APIs & domain modeling
-- Product-driven frontend with Vue 3 + TypeScript
+- Clean domain modeling
+- Business-oriented software design
+- Structured APIs
+- Product-driven frontend (Vue 3 + TypeScript)
 
 ---
 
-## Principles
+## Core Principles
 
 - Product before features  
 - Systems before shortcuts  
 - Clarity over complexity  
-- Long-term thinking  
+- Long-term vision over quick wins  
 
 ---
 
-## Stack
+## Tech Stack
 
 **Backend**  
-Go · Python · FastAPI · SQL · REST   
+Go · Python · FastAPI · SQL · REST  
 
 **Frontend**  
 Vue 3 · TypeScript  
@@ -54,4 +58,4 @@ Docker · CI/CD · GitHub Actions
 
 ## Contact
 
-gapfware@gmail.com
+📩 gapfware@gmail.com
